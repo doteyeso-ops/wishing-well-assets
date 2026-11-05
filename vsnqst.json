@@ -2,7 +2,7 @@
  "name": "Visionquest",
  "symbol": "VSNQST",
  "description": "The vision quest. A wishing well coin \u2014 every trade pays the well.",
- "image": "https://raw.githubusercontent.com/doteyeso-ops/wishing-well-assets/main/vsnqst.png",
+ "image": "https://cdn.jsdelivr.net/gh/doteyeso-ops/wishing-well-assets@main/vsnqst.png",
  "showName": true,
  "createdOn": "https://pump.fun",
  "twitter": "",
